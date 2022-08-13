@@ -1,2 +1,3 @@
 # Htm_clases
-Repositorio para proyectos
+
+Aprendiendo HTML en youtube, usando VSCODE
